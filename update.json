@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 4,
-  "latestVersionName": "1.1.2",
-  "downloadUrl": "https://github.com/buibag/auto-update/releases/download/v1.1.2/auto-v1.1.2-signed.apk",
-  "changelog": "Bug fixes and improvements"
+  "latestVersionCode": 5,
+  "latestVersionName": "1.1.3",
+  "downloadUrl": "https://github.com/buibag/auto-update/releases/download/v1.1.3/auto-v1.1.3-signed.apk",
+  "changelog": "Build test v1.1.3"
 }
