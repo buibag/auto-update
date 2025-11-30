@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 3,
-  "latestVersionName": "1.1.1",
-  "downloadUrl": "https://github.com/buibag/auto-update/releases/download/v1.1.1/auto-v1.1.1-signed.apk",
-  "changelog": "- Sửa bug nhỏ\n- Cải thiện backup Drive\n- Ổn định auto update"
+  "latestVersionCode": 4,
+  "latestVersionName": "1.1.2",
+  "downloadUrl": "https://github.com/buibag/auto-update/releases/download/v1.1.2/auto-v1.1.2-signed.apk",
+  "changelog": "Bug fixes and improvements"
 }
