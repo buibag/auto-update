@@ -1,6 +1,7 @@
 {
-  "latestVersionCode": 55,
-  "latestVersionName": "1.1.53",
-  "downloadUrl": "https://github.com/buibag/auto-update/releases/download/v1.1.53/auto-1.1.53.apk",
-  "changelog": "Auto test"
+  "latestVersionCode": 56,
+  "latestVersionName": "1.1.54",
+  "downloadUrl": "https://github.com/buibag/auto-update/releases/download/v1.1.54/auto-1.1.54.apk",
+  "changelog": "Auto test",
+  "sha256": "3d8d73cdbe0471885aa5b56b091afd48e6df7699bb56c724e2f8a4a69b3b2d66"
 }
