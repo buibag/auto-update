@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 60,
-  "latestVersionName": "1.1.58",
-  "downloadUrl": "https://github.com/buibag/auto-update/releases/download/v1.1.58/auto-1.1.58.apk",
-  "changelog": "Mở rộng sao lưu cấu hình ứng dụng",
-  "sha256": "1c9c3330863f86a33cdff44ab27c9a40bc0cada0025989989b4d043bceb8413a"
+  "latestVersionCode": 61,
+  "latestVersionName": "1.1.59",
+  "downloadUrl": "https://github.com/buibag/auto-update/releases/download/v1.1.59/auto-1.1.59.apk",
+  "changelog": "Kiem tra cap nhat GitHub",
+  "sha256": "eaacb4deb7bf1947ef6ab61b1f9f2826120e80086c6639de41a6e19574d2512b"
 }
