@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 64,
-  "latestVersionName": "1.1.62",
-  "downloadUrl": "https://github.com/buibag/auto-update/releases/download/v1.1.62/auto-1.1.62.apk",
-  "changelog": "Filter update APK to ARM devices and keep quick ball landscape fix",
-  "sha256": "9868f4a7b07704d7b3f430a551c9320cc2647ac7c0788f9a04afa799c7274c2c"
+  "latestVersionCode": 65,
+  "latestVersionName": "1.1.63",
+  "downloadUrl": "https://github.com/buibag/auto-update/releases/download/v1.1.63/auto-1.1.63.apk",
+  "changelog": "Test in-app updater from release-signed install",
+  "sha256": "77cba2c960c9dc1b7719eb1a0478723da1a1e4e31856d331dd21cfe487a1e440"
 }
