@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 65,
-  "latestVersionName": "1.1.63",
-  "downloadUrl": "https://github.com/buibag/auto-update/releases/download/v1.1.63/auto-1.1.63.apk",
-  "changelog": "Test in-app updater from release-signed install",
-  "sha256": "77cba2c960c9dc1b7719eb1a0478723da1a1e4e31856d331dd21cfe487a1e440"
+  "latestVersionCode": 66,
+  "latestVersionName": "1.1.64",
+  "downloadUrl": "https://github.com/buibag/auto-update/releases/download/v1.1.64/auto-1.1.64.apk",
+  "changelog": "Stabilize sleep network toggles and accessibility flow; refine reader hour editing; normalize overlay bubble position across rotation",
+  "sha256": "e7392f1f451f0c9407a4916220dc8606f6265f476b9b0e774e956d7e74786c4b"
 }
